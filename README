@@ -1,0 +1,10 @@
+Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz". Do not spend any longer than 30 MINUTES on the test!
+
+Make sure that all the requirements have been met. There are 6 requirements of this task.
+
+1 - Multiples of 3 (Fizz)
+2 - Multiples of 5 (Buzz)
+3 - Multiples of both 3 and 5 (FizzBuzz)
+4 - Numbers that do not match any of the above - Just print the number.
+5 - For the numbers 1 to 100 apply the above requirements
+6 - Unit testing - (For example: redirect STDOUT so that you can unit test what is being printed.). Create unit tests for the first 4 requirements.

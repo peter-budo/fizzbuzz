@@ -4,7 +4,7 @@
     <groupId>com.petermiklosko</groupId>
     <artifactId>fizzbuzz</artifactId>
     <version>0.1-SNAPSHOT</version>
-    <name>JLens</name>
+    <name>FizzBuzz</name>
     <description>Simple FizzBuzz TDD
     </description>
     <licenses>
